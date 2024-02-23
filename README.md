@@ -6,7 +6,8 @@ The Responsive Landing Page project developed by TechSpark showcases our experti
 
 ## Key Features:
 
-### Responsive Design: The landing page is meticulously crafted to adapt seamlessly to various screen sizes and devices, ensuring optimal viewing experiences across desktops, tablets, and smartphones.
+### Responsive Design: 
+The landing page is meticulously crafted to adapt seamlessly to various screen sizes and devices, ensuring optimal viewing experiences across desktops, tablets, and smartphones.
 
 ### Engaging Visuals: 
 Utilizing CSS styling techniques and modern design principles, we have incorporated visually appealing elements such as high-quality images, captivating color schemes, and smooth animations to enhance user engagement.
